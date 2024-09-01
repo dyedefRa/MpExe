@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MpExe.App.Properties
+namespace MpExe.APP.Properties
 {
 
 

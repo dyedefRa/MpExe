@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MpExe.App
+namespace MpExe.APP
 {
     internal static class Program
     {

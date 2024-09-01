@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MpExe.App", "MpExe.App\MpExe.App.csproj", "{2E94002B-2131-4193-BDC5-79AD11221FBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MpExe.APP", "MpExe.APP\MpExe.APP.csproj", "{27840695-81CF-4847-A331-AEC8784812E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2E94002B-2131-4193-BDC5-79AD11221FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E94002B-2131-4193-BDC5-79AD11221FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E94002B-2131-4193-BDC5-79AD11221FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E94002B-2131-4193-BDC5-79AD11221FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27840695-81CF-4847-A331-AEC8784812E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27840695-81CF-4847-A331-AEC8784812E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27840695-81CF-4847-A331-AEC8784812E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27840695-81CF-4847-A331-AEC8784812E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
